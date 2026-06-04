@@ -2,6 +2,8 @@ import { useEffect, useState } from "react";
 import { ticketService } from "../services/ticketService";
 
 const useTicket = (ticketId) => {
+  console.log("API RESPONSE:", response.data);
+  
   const [ticket, setTicket] = useState(null);
 
   const [loading, setLoading] =
