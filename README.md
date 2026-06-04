@@ -332,6 +332,13 @@ REST API served through FastAPI.
 
 ---
 
+Screenshots- 
+<img width="1815" height="830" alt="Screenshot 2026-06-04 092704" src="https://github.com/user-attachments/assets/f7817efe-19d9-4241-b5da-8cc22543b646" />
+<img width="727" height="242" alt="Screenshot 2026-06-04 082226" src="https://github.com/user-attachments/assets/23517601-f5ba-4225-b594-6dc53802c1be" />
+<img width="701" height="362" alt="Screenshot 2026-06-04 081400" src="https://github.com/user-attachments/assets/6ab63683-3df1-4838-adc8-37c91705d19b" />
+
+
+
 ## Author
 
 **Dheeraj Chaubey**
